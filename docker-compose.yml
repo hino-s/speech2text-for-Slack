@@ -1,0 +1,7 @@
+services:
+   python:
+     build: ./python
+     container_name: PYTHON
+     env_file:
+       - ./.env
+

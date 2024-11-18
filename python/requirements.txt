@@ -1,0 +1,5 @@
+slackclient
+slack_bolt
+openai
+python-dotenv
+requests
